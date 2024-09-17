@@ -1,0 +1,4 @@
+fastapi==0.91.0
+starlette==0.24.0
+typing_extensions==4.11.0
+yt-dlp>=2024.04.09
